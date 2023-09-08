@@ -19,3 +19,9 @@
 > - 유전체 정보 품종 분류 AI 경진대회 5위  
 > 
 
+<img src="https://user-images.githubusercontent.com/122070432/266516966-c22267d0-ee9f-4506-ad73-96b5bbd1d0c0.jpeg" 
+  style="width:40%; height:40%;">
+<img src="https://user-images.githubusercontent.com/122070432/266516813-26803949-9d3d-486e-b2af-2d07c19ecde8.png" 
+  style="width:60%; height:60%;">
+<img src="https://user-images.githubusercontent.com/122070432/266517206-b3883d23-7351-4944-a599-dc4815f77e07.png" 
+  style="width:60%; height:60%;">
